@@ -4,5 +4,13 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"unistd.h": "c",
+			"stat.h": "c",
+			"stdlib.h": "c",
+			"stdio.h": "c",
+			"fcntl.h": "c"
+		}
+	}
 }
