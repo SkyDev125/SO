@@ -1,3 +1,11 @@
 [submodule "so_project"]
 	path = so_project
 	url = https://github.com/SkyDev125/so_project
+[submodule "lab/lab_sincronizacao"]
+	path = lab/lab_sincronizacao
+[submodule "lab/lab_pipes"]
+	path = lab/lab_pipes
+[submodule "lab/lab_ferramentas"]
+	path = lab/lab_ferramentas
+[submodule "lab/lab_detecao-erros"]
+	path = lab/lab_detecao-erros

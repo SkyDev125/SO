@@ -10,7 +10,11 @@
 			"stat.h": "c",
 			"stdlib.h": "c",
 			"stdio.h": "c",
-			"fcntl.h": "c"
+			"fcntl.h": "c",
+			"types.h": "c",
+			"wait.h": "c",
+			"time.h": "c",
+			"pthread.h": "c"
 		}
 	}
 }
