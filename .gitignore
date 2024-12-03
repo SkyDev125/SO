@@ -31,6 +31,7 @@
 # Executables
 *.exe
 *.out
+*.bck
 *.debug
 *.app
 *.i*86

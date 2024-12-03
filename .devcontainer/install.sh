@@ -30,3 +30,6 @@ pip3 install jinja2
 
 # Install diff
 sudo apt-get install diffutils
+
+# unminimize
+sudo unminimize -y

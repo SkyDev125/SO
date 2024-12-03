@@ -14,7 +14,16 @@
 			"types.h": "c",
 			"wait.h": "c",
 			"time.h": "c",
-			"pthread.h": "c"
+			"pthread.h": "c",
+			"string.h": "c",
+			"ctype.h": "c",
+			"operations.h": "c",
+			"macros.h": "c",
+			"constants.h": "c",
+			"parser.h": "c",
+			"process.h": "c",
+			"dirent.h": "c",
+			"limits.h": "c"
 		}
 	}
 }

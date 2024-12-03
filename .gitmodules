@@ -9,3 +9,9 @@
 	path = lab/lab_ferramentas
 [submodule "lab/lab_detecao-erros"]
 	path = lab/lab_detecao-erros
+[submodule "lab/lab_ficheiros"]
+	path = lab/lab_ficheiros
+[submodule "lab/lab_signals"]
+	path = lab/lab_signals
+[submodule "lab/lab_variaveis-condicao"]
+	path = lab/lab_variaveis-condicao

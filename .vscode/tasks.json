@@ -7,12 +7,29 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
-                "${file}",
+                "${fileDirname}/*.c",
+                "${fileDirname}/*.h",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}.out"
+                "${fileDirname}/${fileBasenameNoExtension}.out",
+                "-g",
+                "-Wall",
+                "-Werror",
+                "-Wextra",
+                "-Wcast-align",
+                "-Wconversion",
+                "-Wfloat-equal",
+                "-Wformat=2",
+                "-Wnull-dereference",
+                "-Wshadow",
+                "-Wsign-conversion",
+                "-Wswitch-enum",
+                "-Wundef",
+                "-Wunreachable-code",
+                "-Wunused",
+                "-pthread",
             ],
             "options": {
-                "cwd": "${fileDirname}"
+                "cwd": "${workspaceFolder}"
             },
             "problemMatcher": [
                 "$gcc"
