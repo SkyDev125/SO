@@ -1,3 +1,9 @@
 [submodule "so_project"]
 	path = so_project
 	url = https://github.com/SkyDev125/so_project
+[submodule "lab/lab_ficheiros"]
+	path = lab/lab_ficheiros
+	url = https://github.com/tecnico-so/lab_ficheiros.git
+[submodule "lab/lab_ferramentas"]
+	path = lab/lab_ferramentas
+	url = https://github.com/tecnico-so/lab_ferramentas.git
