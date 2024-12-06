@@ -10,3 +10,21 @@
 [submodule "lab/lab_pipes"]
 	path = lab/lab_pipes
 	url = https://github.com/tecnico-so/lab_pipes.git
+[submodule "lab/lab_ambiente"]
+	path = lab/lab_ambiente
+	url = https://github.com/tecnico-so/lab_ambiente.git
+[submodule "lab/lab_sincronizacao"]
+	path = lab/lab_sincronizacao
+	url = https://github.com/tecnico-so/lab_sincronizacao.git
+[submodule "lab/lab_detecao-erros"]
+	path = lab/lab_detecao-erros
+	url = https://github.com/tecnico-so/lab_detecao-erros.git
+[submodule "lab/lab_variaveis-condicao"]
+	path = lab/lab_variaveis-condicao
+	url = https://github.com/tecnico-so/lab_variaveis-condicao.git
+[submodule "lab/lab_signals"]
+	path = lab/lab_signals
+	url = https://github.com/tecnico-so/lab_signals.git
+[submodule "lab/lab_tarefas-processos"]
+	path = lab/lab_tarefas-processos
+	url = https://github.com/tecnico-so/lab_tarefas-processos.git
