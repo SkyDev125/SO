@@ -7,3 +7,6 @@
 [submodule "lab/lab_ferramentas"]
 	path = lab/lab_ferramentas
 	url = https://github.com/tecnico-so/lab_ferramentas.git
+[submodule "lab/lab_pipes"]
+	path = lab/lab_pipes
+	url = https://github.com/tecnico-so/lab_pipes.git
