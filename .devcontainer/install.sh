@@ -33,3 +33,7 @@ sudo apt-get install diffutils
 
 # Install all manuals
 sudo apt install -y man-db manpages-posix manpages-dev manpages-posix-dev
+
+# apt-get download libgcc-10-dev
+# dpkg -x "libgcc-10-dev_10.5.0-1ubuntu1~20.04_amd64.deb" .
+# sudo cp usr/lib/gcc/x86_64-linux-gnu/10/libtsan_preinit.o /usr/lib/gcc/x86_64-linux-gnu/9/
